@@ -114,6 +114,19 @@ public class Affichage {
                 this.user_interface = new UserInterface(serviceTask.Testconnexion(login.getText(), password.getText())); 
                 user_interface.getF().show();
           }
+          if(this.aa=="jury")
+          {
+              
+          }
+           if(this.aa=="sponsor")
+          {
+              
+          }
+           if(this.aa=="coach")
+          {
+              
+          } 
+          
         
         }  
                 

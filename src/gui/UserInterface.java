@@ -68,7 +68,8 @@ public class UserInterface {
         f.getToolbar().addCommandToSideMenu("envoyez une réclamation", null,
         e->{
             
-          
+            AjouterReclamation rec = new AjouterReclamation(theme , user); 
+            rec.getF().show(); 
             System.err.println("test valider");
         });
         

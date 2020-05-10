@@ -15,10 +15,12 @@ import com.codename1.ui.layouts.BoxLayout;
 import com.codename1.io.NetworkEvent;
 import gui.AddUser;
 import gui.Affichage;
+import gui.AjouterReclamation;
 import gui.CoatchInterface;
 import gui.EditProfil;
 import gui.HomeForm;
 import gui.HomePage;
+import gui.ListeReclamation;
 import gui.UserInterface;
 
 /**
@@ -59,7 +61,16 @@ public class MyApplication {
             return;
         }
         System.out.print(theme);
-      
+        
+         HomePage h1 = new HomePage(theme); 
+        h1.getF().show(); 
+        /*
+        AjouterReclamation a = new AjouterReclamation(theme); 
+        a.getF().show();
+        /*
+        ListeReclamation a = new ListeReclamation(theme); 
+        a.getF().show();
+      /*
         HomePage h1 = new HomePage(theme); 
         h1.getF().show(); 
       /* 

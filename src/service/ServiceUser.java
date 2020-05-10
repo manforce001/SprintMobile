@@ -50,6 +50,28 @@ public class ServiceUser
                           System.err.println("user");
                           return "user"; 
                       }
+                      else
+                      {
+                          if (a.contains("COACH"))
+                          {
+                              return "coach"; 
+                          }
+                          else 
+                          {
+                              if(a.contains("JURY "))
+                              {
+                                  return "jury"; 
+                              }
+                              else
+                              {
+                                  if(a.contains("SPONSOR"))
+                                  {
+                                  return "sponsor"; 
+                                  }
+                              }
+                          }
+                      }
+                      
                   }
               }
           

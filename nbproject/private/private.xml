@@ -6,15 +6,15 @@
         <group>
             <file>file:/C:/Users/Nasri/Documents/NetBeansProjects/pideev/src/gui/Affichage.java</file>
             <file>file:/C:/Users/Nasri/Documents/NetBeansProjects/pideev/src/gui/HomePage.java</file>
+            <file>file:/C:/Users/Nasri/Documents/NetBeansProjects/pideev/src/gui/GuiComponent_1.java</file>
             <file>file:/C:/Users/Nasri/Documents/NetBeansProjects/pideev/src/com/mycompany/myapp/MyApplication.java</file>
-            <file>file:/C:/Users/Nasri/Documents/NetBeansProjects/pideev/src/Entite/User.java</file>
-            <file>file:/C:/Users/Nasri/Documents/NetBeansProjects/pideev/src/gui/CoatchInterface.java</file>
-            <file>file:/C:/Users/Nasri/Documents/NetBeansProjects/pideev/src/service/UpdateUser.java</file>
+            <file>file:/C:/Users/Nasri/Documents/NetBeansProjects/pideev/src/gui/ListeReclamation.java</file>
+            <file>file:/C:/Users/Nasri/Documents/NetBeansProjects/pideev/src/service/forgetPassword.java</file>
             <file>file:/C:/Users/Nasri/Documents/NetBeansProjects/pideev/src/gui/AddUser.java</file>
-            <file>file:/C:/Users/Nasri/Documents/NetBeansProjects/pideev/src/Entite/UserAdd.java</file>
-            <file>jar:file:/C:/Users/Nasri/Documents/NetBeansProjects/pideev/lib/CodenameOne_SRC.zip!/com/codename1/ui/util/Resources.java</file>
+            <file>file:/C:/Users/Nasri/Documents/NetBeansProjects/pideev/src/service/UpdateUser.java</file>
+            <file>file:/C:/Users/Nasri/Documents/NetBeansProjects/pideev/src/gui/AjouterReclamation.java</file>
+            <file>file:/C:/Users/Nasri/Documents/NetBeansProjects/pideev/src/API/SMS.java</file>
             <file>file:/C:/Users/Nasri/Documents/NetBeansProjects/pideev/src/gui/UserInterface.java</file>
-            <file>file:/C:/Users/Nasri/Documents/NetBeansProjects/pideev/src/gui/GuiComponent.java</file>
             <file>file:/C:/Users/Nasri/Documents/NetBeansProjects/pideev/src/service/ServiceUser.java</file>
             <file>file:/C:/Users/Nasri/Documents/NetBeansProjects/pideev/src/service/AdUser.java</file>
             <file>file:/C:/Users/Nasri/Documents/NetBeansProjects/pideev/src/gui/EditProfil.java</file>
